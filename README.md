@@ -24,9 +24,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,mysql" />
-    <img src="https://skillicons.dev/icons?i=python,jupyter,cassandra" /><br>
-    <img src="    https://icons8.com/icon/E2D_b34isGwh/django /><br>
-    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 24 24">
+    <img src="https://skillicons.dev/icons?i=python,jupyter,cassandra,django" /><br>
 
 
 </div>
