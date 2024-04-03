@@ -29,11 +29,13 @@
 
 </div>
 
-## Contributions
-
-Here's a matrix-like visualization of my GitHub contributions:
-
-<img src="https://github.com/users/mhenaammour/contributions" alt="Contribution graph">
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mhenaammour/mhenaammour/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
