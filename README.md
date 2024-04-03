@@ -10,4 +10,13 @@
      ⚡ Fun fact **There is only one GOAT 10**
 </div>
 
+<div align="center"> 
+  <a href="mhenaammour90@gmail.com">
+    <img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://www.linkedin.com/in/mhena-ammour/" target="_blank" />
+  </a>
+
+</div>
 
