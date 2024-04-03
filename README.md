@@ -14,9 +14,8 @@
   <a href="mhenaammour90@gmail.com">
     <img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://www.linkedin.com/in/mhena-ammour/" target="_blank" />
+  <a href="https://www.linkedin.com/in/mhena-ammour/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
 </div>
 
