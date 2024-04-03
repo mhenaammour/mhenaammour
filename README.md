@@ -29,6 +29,13 @@
 
 </div>
 
+## Contributions
+
+Here's a matrix-like visualization of my GitHub contributions:
+
+<img src="https://github.com/users/mhenaammour/contributions" alt="Contribution graph">
+
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
