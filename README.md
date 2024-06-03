@@ -8,6 +8,11 @@
      🔭 I’m currently a student at **ISIMA-UCA**
     
      ⚡ Fun fact **There is only one GOAT 10**
+
+     ### Random Quote
+
+"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
+
 </div>
 
 <div align="center"> 
