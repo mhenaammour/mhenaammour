@@ -7,9 +7,9 @@
     <h3 align="center">A passionate web developer with a keen interest in blockchain technology, networking, and artificial intelligence.💻</h3>
      🔭 I’m currently a student at **ISIMA-UCA**
     
-#### Fun Fact 😄
+  ⚡ Fun Fact 😄
 
-- Why do programmers prefer dark mode? Because light attracts bugs! 🐞
+**- Why do programmers prefer dark mode? Because light attracts bugs! 🐞**
 
 </div>
 
