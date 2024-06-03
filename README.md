@@ -7,13 +7,14 @@
     <h3 align="center">A passionate web developer with a keen interest in blockchain technology, networking, and artificial intelligence.💻</h3>
      🔭 I’m currently a student at **ISIMA-UCA**
     
-     ⚡ Fun fact **There is only one GOAT 10**
+     ⚡ Fun fact **There is only one GOAT 10*
 
-     ### Random Quote
+</div>
+
+### Random Quote
 
 "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
 
-</div>
 
 <div align="center"> 
   <a href="mailto:mhenaammour90@gmail.com">
