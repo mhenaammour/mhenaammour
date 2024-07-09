@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Suiiii!+👋;+I'm+m'hena+Ammour!;" />
 </h1>
 <div align="center">
-    <h3 align="center">A passionate web developer with a keen interest in blockchain technology, networking, and artificial intelligence.💻</h3>
+    <h3 align="center">Computer Science Student (ISIMA) | Enthusiast in AI, Data Science & Web Development 💻</h3>
      🔭 I’m currently a student at **ISIMA-UCA**
     
   ⚡ Fun Fact 😄
