@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Suiiii!+👋;+I'm+m'hena+Ammour!;" />
 </h1>
 <div align="center">
-    <h3 align="center">Computer Science Student (ISIMA) | Enthusiast in AI, Data Science & Web Development 💻</h3>
-     🔭 I’m currently a student at **ISIMA-UCA**
+    <h3 align="center">Data science Student (UNiversity of Tours , FRANCE) | Enthusiast in AI, Data Science & Web Development 💻</h3>
+     🔭 I’m currently a BI Developper at **MSL CIRCUITS**
     
   ⚡ Fun Fact 😄
 
