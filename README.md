@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mhenaammour.mhenaammour" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Azul fellawen!+👋;+I'm+m'hena+Ammour!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Azul-fellawen!+👋;+I'm+m'hena+Ammour!;" />
 </h1>
 <div align="center">
     <h3 align="center">Data science Student (UNiversity of Tours , FRANCE) | Enthusiast in AI, Data Science & Web Development 💻</h3>
