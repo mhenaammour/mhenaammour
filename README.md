@@ -4,12 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Azul-fellawen!+👋;+I'm+m'hena+Ammour!;" />
 </h1>
 <div align="center">
-    <h3 align="center">Data science Student (UNiversity of Tours , FRANCE) | Enthusiast in AI, Data Science & Web Development 💻</h3>
-     🔭 I’m currently a BI Developper at **MSL CIRCUITS**
+    <h3 align="center">Data science Student (University of Tours , FRANCE) | Enthusiast in AI, Data Science & Web Development 💻</h3>
+     🔭 I’m currently a BI Developper at **ALL CIRCUITS**
     
   ⚡ Fun Fact 😄
 
 **- Why do programmers prefer dark mode? Because light attracts bugs! 🐞**
+
+
+**-  💙 Més que un club ❤️**
 
 </div>
 
